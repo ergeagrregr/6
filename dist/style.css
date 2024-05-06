@@ -1,0 +1,17 @@
+body {
+  font-family: system-ui;
+  background: #46A3FF;
+  color: black;
+  text-align: center;
+  body {background:pink;}
+}
+
+
+.video-back{ 
+position:fixed;
+top:0;   
+left:0;
+min-width:100%;
+min-height:100%;
+z-index:-2;  
+}
